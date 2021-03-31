@@ -1,0 +1,3 @@
+
+# *.log  #this will ignore all file with .log extension
+application.log
